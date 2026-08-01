@@ -40,25 +40,25 @@ I am **not responsible** for any damage caused.
    adb reboot bootloader
    ```
 or
-    ```bash
-    adb reboot fastboot
-    ```
+   ```bash
+   adb reboot fastboot
+   ```
 If there's any prompt that asks if you trust the device for USB debugging, click on always trust and *Accept*
 6. On your PC, run
-    ```bash
-    fastboot devices
-    ```
+   ```bash
+   fastboot devices
+   ```
 If there's no output, look in Device Manager for your phone, if it's not there, your PC isn't detecting the phone
 7. If there IS output, run this
-    ```bash
-    fastboot flashing unlock
-    ```
+   ```bash
+   fastboot flashing unlock
+   ```
 Press **Volume Up** on your phone to Accept
 This will wipe your phone.
 8. Reboot into your normal phone and go to *Developer options*, *OEM Unlocking* should be greyed out now
-    ```bash
-    fastboot reboot
-    ```
+   ```bash
+   fastboot reboot
+   ```
 9. Install your root manager (Magisk, KernelSU, ...)
 10. Reboot into fastboot again
 11. Run this
