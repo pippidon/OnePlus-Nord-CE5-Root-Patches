@@ -40,6 +40,7 @@ I am **not responsible** for any damage caused.
    adb reboot bootloader
    ```
 or
+
    ```bash
    adb reboot fastboot
    ```
