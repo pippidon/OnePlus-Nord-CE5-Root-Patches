@@ -30,11 +30,12 @@ WARNING: *This process will wipe your data, backup anything important*
 I am **not responsible** for any damage caused.
 
 1. Enable *Developer mode*
+
    Settings > About device > Version > Version No.
-2. Enable *USB Debugging* and *OEM Unlocking*
-3. Install `android-tools` on your PC
-4. Connect your phone to your PC via USB
-5. On your PC, open Terminal and run
+3. Enable *USB Debugging* and *OEM Unlocking*
+4. Install `android-tools` on your PC
+5. Connect your phone to your PC via USB
+6. On your PC, open Terminal and run
    ```bash
    adb reboot bootloader
    ```
