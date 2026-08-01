@@ -23,10 +23,11 @@ I also wanted to add APatch here, but it requires a **SuperKey**, so that's why 
 
 # Guide
 
-$${\color{red}WARNING: This process will wipe your data, backup anything important}$$
-$${\color{red}It may cause a brick if done incorrectly.}$$
+<span style="color:red">WARNING: This process will wipe your data, backup anything important</span>
 
-$${\color{red}I am not responsible for any damage caused}$$
+<span style="color:red">It may cause a brick if done incorrectly.</span>
+
+<span style="color:red">I am not responsible for any damage caused</span>
 
 1. Enable *Developer mode*
    Settings > About device > Version > Version No.
