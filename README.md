@@ -25,7 +25,8 @@ I also wanted to add APatch here, but it requires a **SuperKey**, so that's why 
 
 <span style="color: red;"><b>WARNING</b>: This process will wipe your phone, backup your important data.<br>
 It may cause a brick if done incorrectly.
-I am not responsible for any damages caused</span>
+
+### I am not responsible for any damages caused</span>
 
 1. Enable *Developer mode*
    Settings > About device > Version > Version No.
