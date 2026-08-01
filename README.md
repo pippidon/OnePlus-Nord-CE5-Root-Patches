@@ -54,7 +54,9 @@ If there's no output, look in Device Manager for your phone, if it's not there, 
    fastboot flashing unlock
    ```
 Press **Volume Up** on your phone to Accept
+
 This will wipe your phone.
+
 8. Reboot into your normal phone and go to *Developer options*, *OEM Unlocking* should be greyed out now
    ```bash
    fastboot reboot
