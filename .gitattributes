@@ -1,3 +1,4 @@
 Stock[[:space:]]images/boot.img filter=lfs diff=lfs merge=lfs -text
 Stock[[:space:]]images/*.img filter=lfs diff=lfs merge=lfs -text
 Stock[[:space:]]images/init_boot.img filter=lfs diff=lfs merge=lfs -text
+Stock[[:space:]]images/*.zip filter=lfs diff=lfs merge=lfs -text
