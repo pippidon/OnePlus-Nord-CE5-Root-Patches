@@ -4,7 +4,7 @@ Discord - valenvnovel
 
 Contains patched *init_boot* images for many root solutions
 
-Also contains stock *init_boot.img* and *boot.img* for APatch users (see the APatch guide)
+Also contains stock *init_boot.img* and *boot.img* for APatch users (see the [APatch guide](https://github.com/valenrina/OnePlus-Nord-CE5-Root-Patches/blob/main/Rooted%20images/For%20Apatch%20Users.md))
 
 Currently only for **CPH2719_16.0.5.1002(EX01)** firmware version
 
