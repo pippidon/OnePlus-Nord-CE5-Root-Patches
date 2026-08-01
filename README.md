@@ -44,11 +44,13 @@ or
    adb reboot fastboot
    ```
 If there's any prompt that asks if you trust the device for USB debugging, click on always trust and *Accept*
+
 6. On your PC, run
    ```bash
    fastboot devices
    ```
 If there's no output, look in Device Manager for your phone, if it's not there, your PC isn't detecting the phone
+
 7. If there IS output, run this
    ```bash
    fastboot flashing unlock
