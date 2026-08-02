@@ -39,14 +39,9 @@ I am **not responsible** for any damage caused.
    ```bash
    adb reboot bootloader
    ```
-or
-
-   ```bash
-   adb reboot fastboot
-   ```
 If there's any prompt that asks if you trust the device for USB debugging, click on always trust and *Accept*
 
-6. On your PC, run
+6.5. On your PC, run
    ```bash
    fastboot devices
    ```
@@ -66,6 +61,9 @@ This will wipe your phone.
    ```
 9. Install your root manager (Magisk, KernelSU, ...)
 10. Reboot into fastboot again
+    ```bash
+    adb reboot bootloader
+    ```
 11. Run this
     ```bash
     fastboot flash init_boot "path/to/file.img"
