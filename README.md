@@ -17,8 +17,6 @@ Currently only for **CPH2719_16.0.5.1002(EX01)** firmware version
 - Kitsune Mask (Magisk Delta)
 - Magisk Alpha
 
-I also wanted to add APatch here, but it requires a **SuperKey**, so that's why there is a stock boot.img included in the *Stock images* folder
-
 # Guide
 
 WARNING: *This process will wipe your data, backup anything important*
