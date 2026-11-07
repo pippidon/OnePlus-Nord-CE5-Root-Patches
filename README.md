@@ -19,11 +19,11 @@ Currently only for **CPH2719_16.0.5.1002(EX01)** firmware version
 
 # Guide
 
-WARNING: *This process will wipe your data, backup anything important*
+WARNING: *This process will wipe your data*
 
 **It may cause a brick if done incorrectly.**
 
-I am **not responsible** for any damage caused.
+I am **not responsible** for any shit you break
 
 1. Enable *Developer mode*
 
